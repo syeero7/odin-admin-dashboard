@@ -19,7 +19,7 @@
   --blue: #0284c7;
   --white: #fff;
   --grey: #e4e4e7;
-  --grey-500:#6b7280;
+  --grey-500: #6b7280;
   --yellow: #fbbf24;
 
   --box-shadow: 4px 4px 5px var(--grey-500);
@@ -91,7 +91,7 @@ body {
   grid-template-rows: 1fr 1.5fr;
   align-items: center;
   justify-items: end;
-  padding: 0 25px;
+  padding: 15px 25px;
 }
 
 #header .search-bar {
@@ -165,8 +165,7 @@ body {
   padding-left: 1rem;
 }
 
-
-#header div >p {
+#header div > p {
   font-weight: 700;
 }
 
